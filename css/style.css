@@ -1,0 +1,10 @@
+body {
+    padding-top: 50px;
+}
+.news-list {
+    list-style-type: none;
+    padding: 0;
+}
+.news-item {
+    margin-bottom: 10px;
+}
